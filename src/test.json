@@ -1,0 +1,100 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+            },
+            "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+            "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+            "name": "R3HAB",
+            "type": "artist",
+            "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+            },
+            "href": "https://api.spotify.com/v1/artists/1r9DuPTHiQ7hnRRZ99B8nL",
+            "id": "1r9DuPTHiQ7hnRRZ99B8nL",
+            "name": "蔡依林",
+            "type": "artist",
+            "uri": "spotify:artist:1r9DuPTHiQ7hnRRZ99B8nL"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
+        },
+        "href": "https://api.spotify.com/v1/albums/79hQ8RdrbrZDjceDsdTYm5",
+        "id": "79hQ8RdrbrZDjceDsdTYm5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ba910196549bf500ef8ca63",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024ba910196549bf500ef8ca63",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514ba910196549bf500ef8ca63",
+            "width": 64
+          }
+        ],
+        "name": "Stars Align (with Jolin Tsai)",
+        "release_date": "2021-03-21",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:79hQ8RdrbrZDjceDsdTYm5"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/6cEuCEZu7PAE9ZSzLLc2oQ",
+          "id": "6cEuCEZu7PAE9ZSzLLc2oQ",
+          "name": "R3HAB",
+          "type": "artist",
+          "uri": "spotify:artist:6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
+          },
+          "href": "https://api.spotify.com/v1/artists/1r9DuPTHiQ7hnRRZ99B8nL",
+          "id": "1r9DuPTHiQ7hnRRZ99B8nL",
+          "name": "蔡依林",
+          "type": "artist",
+          "uri": "spotify:artist:1r9DuPTHiQ7hnRRZ99B8nL"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 161904,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "QM4TX2142581"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2RQYvKXf2WG4bqN6hPRNq6",
+      "id": "2RQYvKXf2WG4bqN6hPRNq6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Stars Align (with Jolin Tsai)",
+      "popularity": 63,
+      "preview_url": "https://p.scdn.co/mp3-preview/5b7bbf44e11ada5bea6c27941410c54c3df4942c?cid=1063e93eaaaf4d5fbf6b684589aebca1",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2RQYvKXf2WG4bqN6hPRNq6"
+    }
+  ]
+}

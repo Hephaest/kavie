@@ -1,0 +1,190 @@
+{
+  "about": {
+    "body": {
+      "para-1": "방탄소년단이나 블랙핑크에 대해 들어본 적 있나요? 슬기로운 의사생활이나 신서유기 시리즈를 본 적이 있습니까? 그렇다면 축하합니다! 당신은 이미 K-pop 세계에 참여하고 있습니다. K-pop은 록, 힙합, R&B, 일렉트로닉, 컨트리 등 다양한 형태가 있습니다. 이 문화를 좋아한다면 관심 있는 사람의 정보를 찾기 위해 인터넷을 검색했을 것입니다.",
+      "para-2": "그러나 정보가 상당히 분산되어 있을 수 있습니다. 이러한 이유로 다양한 웹사이트, 특히 여러 언어를 탐색해야 합니다. 또한 팬은 속어를 사용하여 의사 소통하는 것을 선호하며 새로운 팬은 무슨 일이 일어나고 있는지 이해하지 못합니다. 마지막으로 음악 스트리밍 플랫폼은 아티스트에 대한 정보를 거의 제공하지 않습니다. 따라서 사용자는 음악에 집중하지 않고 아티스트를 검색하기 위해 새 웹 페이지를 열어 사용자 경험을 저하시킵니다.",
+      "para-3": "위의 한계를 극복하기 위해 이 웹사이트를 구축하여 케이팝의 새로운 트렌드를 찾고, 음악을 듣고, 가장 유용한 정보를 얻을 수 있는 원스톱 서비스를 제공합니다. 또한 새 친구를 찾고 커뮤니티를 만나고 삶을 즐기기 위해 커버 곡을 공유하는 것도 환영합니다!",
+      "para-4": "내 프로젝트가 이 빌어먹을 우울한 세상에서 잠시 동안 당신의 마음을 공중에 띄우고 음악을 즐기고 당신의 삶을 포용할 수 있기를 바랍니다!"
+    },
+    "copyright": "SM 엔터테인먼트 제공",
+    "creator": "창조자",
+    "title": "Kavie에 대한 모든 것"
+  },
+  "auth": {
+    "confirmPassword": "비밀번호 확인",
+    "confirmNewPassword": "새 비밀번호 확인"
+  },
+  "brand": {
+    "description": "K-pop, 사랑, 재미만을 위한 곳, Kavie.",
+    "name": "Kavie",
+    "slogan": "음악을 공유하고, <br>당신이 사랑하는 것을 찾으십시오, <br>삶을 포용합니다.",
+    "welcome": "Kavie는 전 세계 사람들과 케이팝을 공유할 수 있도록 도와줍니다."
+  },
+  "comment": {
+    "enterHint": "게시하려면 Enter 키를 누르세요.",
+    "placeholder": "코멘트 쓰기...",
+    "count": "코멘트가 없습니다 | 코멘트 (1) | 코멘트 ({count})",
+    "sortByLatest": "최신",
+    "sortByOldest": "가장 오래된"
+  },
+  "common": {
+    "about": "에 대한",
+    "chooseFile": "파일을 선택",
+    "email": "이메일",
+    "forum": "음악 포럼",
+    "language": "언어",
+    "login": "로그인",
+    "logout": "로그아웃",
+    "manage": "오디오 관리",
+    "name": "이름",
+    "password": "비밀번호",
+    "age": "나이",
+    "preferredLanguage": "선호하는 언어",
+    "settings": "설정",
+    "signup": "가입하기",
+    "submit": "제출하다",
+    "delete": "삭제",
+    "tos": "약관 및 서비스",
+    "total": "총",
+    "upload": "파일 업로드",
+    "uploadHint": "여기에 파일을 드롭하세요.",
+    "updateProfile": "프로필 업데이트",
+    "changePassword": "비밀번호 변경",
+    "reply": "답글",
+    "comment": "코멘트",
+    "update": "업데이트"
+  },
+  "error": {
+    "auth": {
+      "emailAlreadyInUse": "이메일은 이미 사용 중입니다.",
+      "invalidEmail": "이메일이 잘못되었습니다.",
+      "tooManyRequests": "로그인 시도가 여러 번 실패하여 이 계정에 대한 액세스가 일시적으로 비활성화되었습니다. 비밀번호를 재설정하여 즉시 복원하거나 나중에 다시 시도할 수 있습니다.",
+      "userDisabled": "주어진 이메일이 비활성화되었습니다.",
+      "userNotFound": "등록된 이메일이 아닙니다.",
+      "weakPassword": "비밀번호가 너무 약합니다.",
+      "wrongPassword": "비밀번호가 잘못되었거나 이메일에 해당하는 계정에 비밀번호가 설정되어 있지 않습니다.",
+      "requiresRecentLogin": "이 작업은 민감하며 최근 인증이 필요합니다. 이 요청을 다시 시도하기 전에 다시 로그인하십시오."
+    },
+    "default": "문제가 발생했습니다. 나중에 다시 시도하세요.",
+    "search": {
+      "pageNotFound": "죄송합니다. 요청하신 페이지를 찾을 수 없습니다."
+    },
+    "storage": {
+      "fileFormatNotSupported": "파일 형식이 지원되지 않습니다.",
+      "fileNotFound": "파일을 찾을 수 없습니다.",
+      "fileWrongSize": "파일 크기가 맞지 않습니다.",
+      "notPermission": "이 작업을 수행할 권한이 없습니다.",
+      "retryLimitExceeded": "재시도 제한 오류로 인해 업로드에 실패했습니다."
+    },
+    "network": {
+      "offline": "너는 지금 접속이 안되있어. 인터넷 연결을 확인하십시오."
+    }
+  },
+  "fandom": {
+    "colors": "색상",
+    "fanchant": "팬던트",
+    "forChineseFan": "중국 팬의 경우",
+    "forInternationalFan": "해외 팬의 경우",
+    "forKoreanFan": "한국 팬의 경우",
+    "gotcha": "알겠습니다. 감사 해요!",
+    "groupGreeting": "안녕하세요 {name}입니다!",
+    "links": "링크 | 연결",
+    "name": "팬 이름",
+    "officialSite": "공식 사이트",
+    "officialStore": "공식 스토어",
+    "singleGreeting": "안녕하세요 {name}입니다!",
+    "socialMedia": "SNS",
+    "wiki": "위키"
+  },
+  "forum": {
+    "playlist": "재생 목록"
+  },
+  "kpop": {
+    "rankingBoard": "케이팝 {type} 순위 Top 100",
+    "rankingType": {
+      "day": "일간",
+      "live": "라이브",
+      "month": "월간",
+      "week": "주간"
+    },
+    "sourceFrom": "의 소스"
+  },
+  "manage": {
+    "emptySong": "업로드한 노래가 없습니다. 오디오를 업로드하고 즐거운 시간을 보내세요!",
+    "songManagement": "노래 관리"
+  },
+  "placeholder": {
+    "confirmPassword": "비밀번호를 확인해주세요",
+    "email": "당신의 이메일 주소를 입력하십시오",
+    "name": "당신의 이름을 입력하세요",
+    "password": "비밀번호를 입력해주세요",
+    "age": "나이를 입력하세요.",
+    "newPassword": "새 비밀번호를 입력하세요",
+    "newPasswordConfirm": "새 비밀번호를 확인하세요"
+  },
+  "setting": {
+    "accountSettings": "계정 설정",
+    "profilePicture": "프로필 사진",
+    "savePhoto": "사진 저장하기",
+    "newPassword": "새 비밀번호"
+  },
+  "song": {
+    "title": "노래 제목",
+    "genre": "장르"
+  },
+  "state": {
+    "active": {
+      "addComment": "기다리세요! 귀하의 의견이 제출되고 있습니다.",
+      "deleteSong": "기다리세요! 당신의 노래를 삭제하고 있습니다.",
+      "login": "기다리세요! 로그인 중입니다.",
+      "logout": "기다리세요! 로그아웃 중입니다.",
+      "register": "기다리세요! 귀하의 계정이 생성되고 있습니다.",
+      "updateSong": "기다리세요! 변경 사항을 저장하고 있습니다.",
+      "updateProfile": "기다리세요! 변경 사항을 저장하고 있습니다.",
+      "uploadSong": "기다리세요! 당신의 노래가 업로드되고 있습니다."
+    },
+    "rejected": {
+      "addComment": "의견을 제출할 수 없습니다. 다시 시도해 주세요.",
+      "deleteSong": "노래를 삭제할 수 없습니다. 다시 시도해 주세요.",
+      "login": "로그인할 수 없습니다. 다시 시도해 주세요.",
+      "logout": "로그아웃할 수 없습니다. 다시 시도해 주세요.",
+      "register": "계정을 만들 수 없습니다. 다시 시도해 주세요.",
+      "updateSong": "변경 사항을 저장할 수 없습니다. 다시 시도해 주세요.",
+      "updateProfile": "변경 사항을 저장할 수 없습니다. 다시 시도해 주세요.",
+      "uploadSong": "노래를 업로드할 수 없습니다. 다시 시도해 주세요."
+    },
+    "resolved": {
+      "addComment": "귀하의 의견이 성공적으로 제출되었습니다!",
+      "deleteSong": "노래가 성공적으로 삭제되었습니다!",
+      "login": "성공적으로 로그인했습니다!",
+      "logout": "당신은 성공적으로 로그 아웃했습니다!",
+      "register": "당신의 계정이 성공적으로 생성되었습니다!",
+      "updateSong": "변경 사항이 성공적으로 저장되었습니다!",
+      "updateProfile": "프로필이 성공적으로 업데이트되었습니다!",
+      "uploadSong": "노래가 성공적으로 업로드되었습니다!"
+    }
+  },
+  "term": {
+    "accept": "이 확인란을 선택하면 {0}"
+  },
+  "timeFormat": {
+    "duration": "{minutes} {seconds}",
+    "fullDate": "{year}년 {month}월 {day}일",
+    "minute": "{count}분",
+    "second": "{count}초"
+  },
+  "track": {
+    "album": "앨범",
+    "artists": "아티스트 | 예술가들",
+    "fandomOfArtist": "{artist}의 팬덤",
+    "platformIntro": "전체 {duration}에 대한 {name}을 들으려면 다음 플랫폼으로 이동하십시오.",
+    "single": "하나의",
+    "topTracksOfArtist": "{artist}의 인기곡",
+    "totalNumber": "{count} 개",
+    "totalNumberOfTracks": "{total} {num}",
+    "track": "레퍼토리"
+  },
+  "warn": {
+    "leaveWithoutSave": "저장되지 않은 변경 사항이 있습니다. 저장하기 전에 나가면 변경 사항이 손실됩니다. 떠나시겠습니까?"
+  }
+}
