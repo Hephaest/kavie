@@ -2,7 +2,7 @@ module.exports = {
   devServer: {
     proxy: {
       '/melon-api': {
-        target: 'https://melon.danielko.me/',
+        target: 'https://melon-api-server.herokuapp.com/',
         ws: true,
         changeOrigin: true,
         secure: false,

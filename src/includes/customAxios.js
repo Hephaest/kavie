@@ -10,7 +10,7 @@ const {
 // For common config
 axios.defaults.headers.common['Access-Control-Allow-Origin'] = '*';
 
-const melonBaseURL = NODE_ENV === 'production' ? `${CORS_URL}https://melon.danielko.me/api/v1/chart/` : '/melon-api/';
+const melonBaseURL = NODE_ENV === 'production' ? `${CORS_URL}https://melon-api-server.herokuapp.com/api/v1/chart/` : '/melon-api/';
 // For Melon config
 const melonAxios = axios.create({
   baseURL: melonBaseURL,
