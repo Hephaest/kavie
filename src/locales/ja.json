@@ -1,0 +1,190 @@
+{
+  "about": {
+    "body": {
+      "para-1": "BTSやBLACKPINKを知っていますか？病院のプレイリスト」や「新・西遊記」のシリーズを見たことがありますか？もしそうなら、おめでとうございます。あなたはすでにK-POPの世界に関わっています。K-POPには、ロック、ヒップホップ、R&B、エレクトロニック、カントリーなど、さまざまな形態があります。もしあなたがこの文化が好きなら、興味のある人の情報を掘るためにネットサーフィンをしたことがあるでしょう。",
+      "para-2": "しかし、その情報は非常にバラバラであることに気づくでしょう。そのため、様々なサイトを見る必要があり、特に多言語に対応しています。また、ファンの間ではスラングでのコミュニケーションが好まれており、新しいファンにとっては何が起こっているのか理解できないこともあります。最後になりますが、音楽ストリーミング・プラットフォームは、アーティストに関する情報をほとんど提供しません。そのため、ユーザーはアーティストを検索するために新しいウェブページを開くことになり、音楽に集中できなくなり、ユーザーエクスペリエンスが低下してしまうのです。",
+      "para-3": "上記の制限のために、私はワンストップサービスを提供するためにこのウェブサイトを構築しました：K-POPの新しいトレンドを見つけ、音楽を聴き、最も有用な情報を得る。さらに、あなたのカバーソングを共有して、新しい友人を見つけ、コミュニティと出会い、人生を楽しむことも歓迎します。",
+      "para-4": "私のプロジェクトが、音楽を楽しんであなたの人生を受け入れるためだけに、しばらくの間、この気まぐれな落ち込んだ世界からあなたの心を浮かび上がらせることができることを願っています！"
+    },
+    "copyright": "SMエンターテインメントの礼儀",
+    "creator": "クリエイター",
+    "title": "Kavieのすべて"
+  },
+  "auth": {
+    "confirmPassword": "パスワードを認証する",
+    "confirmNewPassword": "新しいパスワードを確認します"
+  },
+  "brand": {
+    "description": "K-POPと愛と遊びだけの場所、Kavie。",
+    "name": "Kavie",
+    "slogan": "音楽を共有し、<br>あなたが好きなものを見つける、<br>人生を受け入れる。",
+    "welcome": "Kavieは、世界中の人々とk-popを共有するのに役立ちます。"
+  },
+  "comment": {
+    "enterHint": "Enterキーを押して投稿します。",
+    "placeholder": "コメントを書く...",
+    "count": "コメントなし | コメント（1）| コメント（{count}）",
+    "sortByLatest": "最新",
+    "sortByOldest": "最古"
+  },
+  "common": {
+    "about": "関連する",
+    "chooseFile": "ファイルを選ぶ",
+    "email": "Eメール",
+    "forum": "音楽フォーラム",
+    "language": "言語",
+    "login": "ログイン",
+    "logout": "ログアウト",
+    "manage": "オーディオ管理",
+    "name": "名前",
+    "password": "パスワード",
+    "age": "年齢",
+    "preferredLanguage": "優先言語",
+    "settings": "設定",
+    "signup": "アカウント登録",
+    "submit": "送信",
+    "delete": "消去",
+    "tos": "利用規約",
+    "total": "合計",
+    "upload": "파일 업로드",
+    "uploadHint": "ここにファイルをドロップしてください",
+    "updateProfile": "プロファイルの更新",
+    "changePassword": "パスワードを変更する",
+    "reply": "返信",
+    "comment": "コメント",
+    "update": "更新"
+  },
+  "error": {
+    "auth": {
+      "emailAlreadyInUse": "メールはすでに使用されています。",
+      "invalidEmail": "メールが無効です。",
+      "tooManyRequests": "多くのログイン試行の失敗により、このアカウントへのアクセスは一時的に無効になっています。 パスワードをリセットしてすぐに復元することも、後で再試行することもできます。",
+      "userDisabled": "指定されたメールは無効になっています。",
+      "userNotFound": "指定されたメールアドレスは登録されていません。",
+      "weakPassword": "パスワードが弱すぎます。",
+      "wrongPassword": "パスワードが無効であるか、メールに対応するアカウントにパスワードが設定されていません。",
+      "requiresRecentLogin": "この操作は機密性が高く、最近の認証が必要です。 このリクエストを再試行する前に、再度ログインしてください。"
+    },
+    "default": "何かがうまくいかなかった。 あとでもう一度試してみてください。",
+    "search": {
+      "pageNotFound": "申し訳ありませんが、リクエストしたページが見つかりません。"
+    },
+    "storage": {
+      "fileFormatNotSupported": "ファイル形式はサポートされていません。",
+      "fileNotFound": "ファイルが見つかりませんでした。",
+      "fileWrongSize": "ファイルのサイズが適切ではありません。",
+      "notPermission": "この操作を実行する権限がありません。",
+      "retryLimitExceeded": "再試行制限エラーのため、アップロードに失敗しました。"
+    },
+    "network": {
+      "offline": "オフラインです。 インターネット接続を確認してください。"
+    }
+  },
+  "fandom": {
+    "colors": "色を表す",
+    "fanchant": "応援スローガン",
+    "forChineseFan": "中国のファンの場合",
+    "forInternationalFan": "海外のファンの場合",
+    "forKoreanFan": "韓国のファンの場合",
+    "gotcha": "了解しました。 ありがとう！",
+    "groupGreeting": "こんにちは、{name}です！",
+    "links": "リンク",
+    "name": "ファン名",
+    "officialSite": "公式サイト",
+    "officialStore": "オフィシャルストア",
+    "singleGreeting": "こんにちは、{name}です！",
+    "socialMedia": "ソーシャルメディア",
+    "wiki": "ウィキ"
+  },
+  "forum": {
+    "playlist": "プレイリスト"
+  },
+  "kpop": {
+    "rankingBoard": "K-POP {type}のランキングトップ100",
+    "rankingType": {
+      "day": "毎日",
+      "live": "ウィークリー",
+      "month": "月間",
+      "week": "毎週"
+    },
+    "sourceFrom": "からのソース"
+  },
+  "manage": {
+    "emptySong": "曲をアップロードしていません。オーディオをアップロードして、楽しんでください。",
+    "songManagement": "曲の管理"
+  },
+  "placeholder": {
+    "confirmPassword": "パスワードを確認してください",
+    "email": "メールアドレスを入力してください",
+    "name": "名前を入力してください",
+    "password": "パスワードを入力してください",
+    "age": "年齢を入力してください",
+    "newPassword": "新しいパスワードを入力してください",
+    "newPasswordConfirm": "新しいパスワードを確認してください"
+  },
+  "setting": {
+    "accountSettings": "アカウント設定",
+    "profilePicture": "プロフィールの写真",
+    "savePhoto": "写真を保存する",
+    "newPassword": "新しいパスワード"
+  },
+  "song": {
+    "title": "曲名",
+    "genre": "ジャンル"
+  },
+  "state": {
+    "active": {
+      "addComment": "お待ちください！ コメントを送信しています。",
+      "deleteSong": "お待ちください！ あなたの曲を削除します。",
+      "login": "お待ちください！ ログインしています。",
+      "logout": "お待ちください！ ログアウトしています。",
+      "register": "お待ちください！ アカウントが作成されています。",
+      "updateSong": "お待ちください！ 変更を保存しています。",
+      "updateProfile": "お待ちください！ 変更を保存しています。",
+      "uploadSong": "お待ちください！ あなたの曲がアップロードされています。"
+    },
+    "rejected": {
+      "addComment": "コメントを送信できませんでした。 もう一度やり直してください。",
+      "deleteSong": "曲を削除できませんでした。 もう一度やり直してください。",
+      "login": "ログインできませんでした。もう一度お試しください。",
+      "logout": "ログアウトできませんでした。 もう一度やり直してください。",
+      "register": "アカウントを作成できませんでした。 もう一度やり直してください。",
+      "updateSong": "変更を保存できませんでした。 もう一度やり直してください。",
+      "updateProfile": "変更を保存できませんでした。 もう一度やり直してください。",
+      "uploadSong": "曲をアップロードできませんでした。 もう一度やり直してください。"
+    },
+    "resolved": {
+      "addComment": "コメントが正常に送信されました。",
+      "deleteSong": "曲が正常に削除されました。",
+      "login": "正常にログインしました。",
+      "logout": "正常にログアウトしました。",
+      "register": "アカウントが正常に作成されました！",
+      "updateSong": "変更は正常に保存されました。",
+      "updateProfile": "プロファイルが正常に更新されました",
+      "uploadSong": "曲が正常にアップロードされました。"
+    }
+  },
+  "term": {
+    "accept": "このチェックボックスをオンにすると、{0}に同意したことになります"
+  },
+  "timeFormat": {
+    "duration": "{minutes}{seconds}",
+    "fullDate": "{year}年{month}月{day}日",
+    "minute": "{count}分",
+    "second": "{count}秒"
+  },
+  "track": {
+    "album": "アルバム",
+    "artists": "アーティスト",
+    "fandomOfArtist": "{artist}のファンダム",
+    "platformIntro": "{duration}の完全な{name}を聞くには、次のプラットフォームにアクセスしてください。",
+    "single": "独身",
+    "topTracksOfArtist": "{artist}の人気曲",
+    "totalNumber": "{count}",
+    "totalNumberOfTracks": "{total}{count}",
+    "track": "レパートリー"
+  },
+  "warn": {
+    "leaveWithoutSave": "保存されていない変更があります。 保存する前に離れると、変更は失われます。 本当に去りますか？"
+  }
+}

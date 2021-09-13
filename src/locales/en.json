@@ -1,0 +1,190 @@
+{
+  "about": {
+    "body": {
+      "para-1": "Have you ever heard of BTS or BLACKPINK? Have you ever watched the series Hospital Playlist or New Journey to the West? If so, congrats! You are already involved in the K-pop world. K-pop has many forms: it can be rock, hip hop, R&B, electronic, country and definitely more. If you like this culture, you have probably surfed the internet for digging the information of the person you are interested in.",
+      "para-2": "However, you might found that information can be quite scattered. For this reason, you need to browse various websites, especially cross languages. In addition, fans prefer using slang to communicate and it is unable for new fans to understand what is going on. Last but not least, music streaming platforms offer little information about artists. Therefore, users will open a new web page to search for the artist while losing focus on music, which lowers the user experience.",
+      "para-3": "For the above limitations, I built this website to provide one-stop service: find the new trend of k-pop, listen to music and get the most useful information. Moreover, It is also welcome to share your cover songs to find new friends, meet your community and cheer your life!",
+      "para-4": "Hope my project can levitate your mind from this f**king depressed world for a while just to enjoy music and embrace your life!"
+    },
+    "copyright": "Courtesy of SM Entertainment",
+    "creator": "Creator",
+    "title": "Everything About Kavie"
+  },
+  "auth": {
+    "confirmPassword": "Confirm password",
+    "confirmNewPassword": "Confirm new password"
+  },
+  "brand": {
+    "description": "Kavie, a place only for k-pop, love and fun.",
+    "name": "Kavie",
+    "slogan": "Share music,<br>Find loves,<br>Embrace life.",
+    "welcome": "Kavie helps you share k-pop with people in the world."
+  },
+  "comment": {
+    "enterHint": "Press Enter to post.",
+    "placeholder": "Write a comment...",
+    "count": "no comments | Comment (1) | Comments ({count})",
+    "sortByLatest": "Latest",
+    "sortByOldest": "Oldest"
+  },
+  "common": {
+    "about": "About",
+    "chooseFile": "Choose File",
+    "email": "Email",
+    "forum": "Forum",
+    "language": "Language",
+    "login": "Log In",
+    "logout": "Log out",
+    "manage": "Manage",
+    "name": "Name",
+    "password": "Password",
+    "age": "Age",
+    "preferredLanguage": "Preferred language",
+    "settings": "Settings",
+    "signup": "Sign Up",
+    "submit": "Submit",
+    "delete": "Delete",
+    "tos": "Terms of Service",
+    "total": "Total",
+    "upload": "File Upload",
+    "uploadHint": "Please drop your files here",
+    "updateProfile": "Update Profile",
+    "changePassword": "Change Password",
+    "reply": "Reply",
+    "comment": "Comment",
+    "update": "Update"
+  },
+  "error": {
+    "auth": {
+      "emailAlreadyInUse": "The email is already in use.",
+      "invalidEmail": "The email is invalid.",
+      "tooManyRequests": "Access to this account has been temporarily disabled due to many failed login attempts. You can immediately restore it by resetting your password or you can try again later.",
+      "userDisabled": "The given email has been disabled.",
+      "userNotFound": "The given email is not registered.",
+      "weakPassword": "The password is too weak.",
+      "wrongPassword": "The password is invalid or the account corresponding to the email does not have a password set.",
+      "requiresRecentLogin": "This operation is sensitive and requires recent authentication. Log in again before retrying this request."
+    },
+    "default": "Something went wrong. Try again later.",
+    "search": {
+      "pageNotFound": "Sorry, the page you requested is not found."
+    },
+    "storage": {
+      "fileFormatNotSupported": "The file format is not supported.",
+      "fileNotFound": "The file was not found.",
+      "fileWrongSize": "The file is not the right size.",
+      "notPermission": "You do not have permission to perform this operation.",
+      "retryLimitExceeded": "The upload failed due to a retry limit error."
+    },
+    "network": {
+      "offline": "You are offline. Please check your internet connection."
+    }
+  },
+  "fandom": {
+    "colors": "Color | Colors",
+    "fanchant": "Fanchant",
+    "forChineseFan": "For Chinese Fans",
+    "forInternationalFan": "For International Fans",
+    "forKoreanFan": "For Korean Fans",
+    "gotcha": "Gotcha, thanks!",
+    "groupGreeting": "Hello, we're {name}!",
+    "links": "Link | Links",
+    "name": "Fan Name",
+    "officialSite": "Official Site",
+    "officialStore": "Official Store",
+    "singleGreeting": "Hello, I'm {name}!",
+    "socialMedia": "Social Media",
+    "wiki": "Wiki"
+  },
+  "forum": {
+    "playlist": "Playlist"
+  },
+  "kpop": {
+    "rankingBoard": "K-pop {type} Ranking Top 100",
+    "rankingType": {
+      "day": "Daily",
+      "live": "Live",
+      "month": "Monthly",
+      "week": "Weekly"
+    },
+    "sourceFrom": "Source from"
+  },
+  "manage": {
+    "emptySong": "You haven't uploaded any songs, try to upload audios and have fun!",
+    "songManagement": "Song Management"
+  },
+  "placeholder": {
+    "confirmPassword": "Please confirm your password",
+    "email": "Please enter your email address",
+    "name": "Please enter your name",
+    "password": "Please enter your password",
+    "age": "Please enter your age",
+    "newPassword": "Please enter your new password",
+    "newPasswordConfirm": "Please confirm your new password"
+  },
+  "setting": {
+    "accountSettings": "Account Settings",
+    "profilePicture": "Profile Picture",
+    "savePhoto": "Save Photo",
+    "newPassword": "New Password"
+  },
+  "song": {
+    "title": "Song Title",
+    "genre": "Genre"
+  },
+  "state": {
+    "active": {
+      "addComment": "Please wait! Your comment is being submitted.",
+      "deleteSong": "Please wait! We are deleting your song.",
+      "login": "Please wait! We are logging you in.",
+      "logout": "Please wait! We are logging you out.",
+      "register": "Please wait! Your account is being created.",
+      "updateSong": "Please wait! We are saving your changes.",
+      "uploadSong": "Please wait! Your song is being uploaded.",
+      "updateProfile": "Please wait! We are saving your changes."
+    },
+    "rejected": {
+      "addComment": "We could not submit your comment. Please try again.",
+      "deleteSong": "We could not delete your song. Please try again.",
+      "login": "We could not log you in. Please try again.",
+      "logout": "We could not log you out. Please try again.",
+      "register": "We could not create your account. Please try again.",
+      "updateSong": "We could not save your changes. Please try again.",
+      "uploadSong": "We could not upload your song. Please try again.",
+      "updateProfile": "We could not save your changes. Please try again."
+    },
+    "resolved": {
+      "addComment": "Your comment has been successfully submitted!",
+      "deleteSong": "Your song has been successfully deleted!",
+      "login": "You have successfully logged in!",
+      "logout": "You have successfully logged out!",
+      "register": "Your account has been successfully created!",
+      "updateSong": "Your changes have been successfully saved!",
+      "uploadSong": "Your song has been successfully uploaded!",
+      "updateProfile": "Your profile has been successfully updated!"
+    }
+  },
+  "term": {
+    "accept": "By checking this box, you agree to our {0}"
+  },
+  "timeFormat": {
+    "duration": "{minutes}{seconds}",
+    "fullDate": "{year}.{month}.{day}",
+    "minute": "1 minute | {count} minutes",
+    "second": "1 second | {count} seconds"
+  },
+  "track": {
+    "album": "Album",
+    "artists": "Artist | Artists",
+    "fandomOfArtist": "Fandom Of {artist}",
+    "platformIntro": "To listen to {name} for the full {duration}, please go to the following platforms:",
+    "single": "Single",
+    "topTracksOfArtist": "Top Tracks Of {artist}",
+    "totalNumber": "1 track | {count} tracks",
+    "totalNumberOfTracks": "{total}: {num}",
+    "track": "Track"
+  },
+  "warn": {
+    "leaveWithoutSave": "You have unsaved changes. If you leave before saving,  your changes will be lost. Are you sure you want to leave?"
+  }
+}

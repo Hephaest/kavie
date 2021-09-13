@@ -1,0 +1,190 @@
+{
+  "about": {
+    "body": {
+      "para-1": "您是否听说过 BTS 或 BLACKPINK 组合？ 您是否看过《机智的医生》或《新西游记》系列？ 如果有的话，恭喜您！ 您已经踏入 K-pop 世界。 K-pop 有很多种形式：它可以是摇滚的、嘻哈的、R&B 的、电子的、乡村的等等。 如果您喜欢这种文化，您可能已经上网搜索感兴趣的艺人的资讯了吧。",
+      "para-2": "然而，您可能会发现信息有时相当分散。 您为了查某个艺人/团体的信息，还需要浏览各种网站，有时还要访问非本土语言的网站。 此外，粉丝们喜欢使用黑话来交流，这对刚入坑的新粉丝很不友好，很可能面临着完全听不懂的处境。 另外，音乐平台提供的艺人的有效信息十分有限。因此，如果用户遇到感兴趣的艺人，还要专门开网页查找TA的资料，这一过程中用户体验就会降低。",
+      "para-3": "针对上述问题，我建立了这个提供一站式服务的网站：发现 k-pop 流行的新趋势，听音乐，获取对应艺人/团体的信息。 当然，也欢迎分享您的翻唱歌曲，在这里结识新朋友，加入喜欢的小组并享受当下的生活！",
+      "para-4": "希望我的这个小项目能帮你从压抑的的世界中脱离出来，享受音乐，享受当下，拥抱你的生活！"
+    },
+    "copyright": "由 SM 娱乐提供",
+    "creator": "创作者",
+    "title": "Kavie 的今世前缘"
+  },
+  "auth": {
+    "confirmPassword": "确认密码",
+    "confirmNewPassword": "确认新密码"
+  },
+  "brand": {
+    "description": "Kavie：一切只关乎 k-pop、爱和乐趣！",
+    "name": "Kavie",
+    "slogan": "分享音乐，<br>寻你所爱，<br>拥抱生活。",
+    "welcome": "Kavie，与世界分享您的K-pop"
+  },
+  "comment": {
+    "enterHint": "按 Enter 发布",
+    "placeholder": "写一个评论...",
+    "count": "没有评论 | 评论 (1) | 评论 ({count})",
+    "sortByLatest": "最新的",
+    "sortByOldest": "最早的"
+  },
+  "common": {
+    "about": "关于",
+    "chooseFile": "选择文件",
+    "email": "邮箱",
+    "forum": "音乐论坛",
+    "language": "语言",
+    "login": "登录",
+    "logout": "退出",
+    "manage": "音频管理",
+    "name": "姓名",
+    "password": "密码",
+    "age": "年龄",
+    "preferredLanguage": "偏好语言",
+    "settings": "设置",
+    "signup": "注册",
+    "submit": "提交",
+    "delete": "删除",
+    "tos": "条款和服务",
+    "total": "总计",
+    "upload": "上传文件",
+    "uploadHint": "请将您的文件放在这里",
+    "updateProfile": "更新个人资料",
+    "changePassword": "修改密码",
+    "reply": "回复",
+    "comment": "评论",
+    "update": "更新"
+  },
+  "error": {
+    "auth": {
+      "emailAlreadyInUse": "该电子邮件已被使用。",
+      "invalidEmail": "电子邮件无效。",
+      "tooManyRequests": "由于多次登录尝试失败，对该帐户的访问已被暂时禁用。 您可以通过重置密码立即恢复它，也可以稍后再试。",
+      "userDisabled": "给定的电子邮件已被禁用。",
+      "userNotFound": "给定的电子邮件未注册。",
+      "weakPassword": "密码太弱。",
+      "wrongPassword": "密码无效或邮件对应的账户没有设置密码。",
+      "requiresRecentLogin": "此操作很敏感，需要最近的身份验证。 在重试此请求之前再次登录。"
+    },
+    "default": "出了些问题。 稍后再试。",
+    "search": {
+      "pageNotFound": "抱歉，没有找到您请求的页面。"
+    },
+    "storage": {
+      "fileFormatNotSupported": "不支持该文件格式。",
+      "fileNotFound": "未找到该文件。",
+      "fileWrongSize": "文件大小不合适。",
+      "notPermission": "您无权执行此操作。",
+      "retryLimitExceeded": "由于重试限制错误，上传失败。"
+    },
+    "network": {
+      "offline": "您处于离线状态。 请检查您的互联网连接。"
+    }
+  },
+  "fandom": {
+    "colors": "代表色",
+    "fanchant": "应援口号",
+    "forChineseFan": "中国粉丝专属",
+    "forInternationalFan": "海外粉丝专属",
+    "forKoreanFan": "韩国粉丝专属",
+    "gotcha": "好的，了解了。谢谢！",
+    "groupGreeting": "大家好，我们是{name}！",
+    "links": "链接",
+    "name": "粉丝名",
+    "officialSite": "官网",
+    "officialStore": "官方周边",
+    "singleGreeting": "大家好，我是{name}！",
+    "socialMedia": "社交媒体",
+    "wiki": "维基"
+  },
+  "forum": {
+    "playlist": "播放列表"
+  },
+  "kpop": {
+    "rankingBoard": "K-pop {type}排行榜 Top 100",
+    "rankingType": {
+      "day": "日",
+      "live": "实时",
+      "month": "月",
+      "week": "周"
+    },
+    "sourceFrom": "来源于"
+  },
+  "manage": {
+    "emptySong": "您还没有上传任何歌曲，请尝试上传音频并享受一些乐趣！",
+    "songManagement": "歌曲管理"
+  },
+  "placeholder": {
+    "confirmPassword": "请确认您的密码",
+    "email": "请输入您的邮箱地址",
+    "name": "请输入您的姓名",
+    "password": "请输入您的密码",
+    "age": "请输入您的年龄",
+    "newPassword": "请输入您的新密码",
+    "newPasswordConfirm": "请确认您的新密码"
+  },
+  "setting": {
+    "accountSettings": "帐号设定",
+    "profilePicture": "个人头像",
+    "savePhoto": "保存图片",
+    "newPassword": "新密码"
+  },
+  "song": {
+    "title": "歌名",
+    "genre": "类型"
+  },
+  "state": {
+    "active": {
+      "addComment": "请稍等！ 您的评论正在提交中。",
+      "deleteSong": "请稍等！ 我们正在删除您的歌曲。",
+      "login": "请稍等！ 我们正在让您登录。",
+      "logout": "请稍等！ 我们正在注销你。",
+      "register": "请稍等！ 正在创建您的帐户。",
+      "updateSong": "请稍等！ 我们正在保存您的更改。",
+      "updateProfile": "请稍等！ 我们正在保存您的更改。",
+      "uploadSong": "请稍等！ 您的歌曲正在上传中。"
+    },
+    "rejected": {
+      "addComment": "我们无法提交您的评论。 请再试一次。",
+      "deleteSong": "我们无法删除您的歌曲。 请再试一次。",
+      "login": "我们无法让您登录。请重试。",
+      "logout": "我们无法将您注销。 请再试一次。",
+      "register": "我们无法创建您的帐户。 请再试一次。",
+      "updateSong": "我们无法保存您的更改。 请再试一次。",
+      "updateProfile": "我们无法保存您的更改。 请再试一次。",
+      "uploadSong": "我们无法上传您的歌曲。 请再试一次。"
+    },
+    "resolved": {
+      "addComment": "您的评论已成功提交！",
+      "deleteSong": "您的歌曲已成功删除！",
+      "login": "您已成功登录！",
+      "logout": "您已成功登出！",
+      "register": "您的帐户已经创建成功！",
+      "updateSong": "您的更改已成功保存！",
+      "uploadSong": "您的歌曲已成功上传！",
+      "updateProfile": "您的个人资料已成功更新!"
+    }
+  },
+  "term": {
+    "accept": "选中此框，即表示您同意我们的{0}"
+  },
+  "timeFormat": {
+    "duration": "{minutes}{seconds}",
+    "fullDate": "{year}年{month}月{day}日",
+    "minute": "{count}分",
+    "second": "{count}秒"
+  },
+  "track": {
+    "album": "专辑",
+    "artists": "艺人",
+    "fandomOfArtist": "{artist}的粉丝文化",
+    "platformIntro": "收听{duration}的完整版{name}，请访问以下平台：",
+    "single": "单曲",
+    "topTracksOfArtist": "{artist}的热门曲目",
+    "totalNumber": "{count}张",
+    "totalNumberOfTracks": "{total}{num}",
+    "track": "曲目"
+  },
+  "warn": {
+    "leaveWithoutSave": "您有未保存的更改。 如果您在保存之前离开，您的更改将会丢失。 你确定要离开吗？"
+  }
+}
