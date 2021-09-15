@@ -23,7 +23,7 @@
     "howler": "^2.2.3",
     "intersection-observer": "^0.12.0",
     "nprogress": "^0.2.0",
-    "postcss": "^7",
+    "postcss": "^8",
     "qs": "^6.10.1",
     "register-service-worker": "^1.7.1",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
